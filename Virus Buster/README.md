@@ -20,7 +20,7 @@
 
 8.[推しポイント](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E6%8E%A8%E3%81%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)
 
-9.[開発技術]()
+9.[開発技術](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93)
 
 ## ゲーム説明
 

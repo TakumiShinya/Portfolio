@@ -16,7 +16,7 @@
 
 6.[遊び方](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E9%81%8A%E3%81%B3%E6%96%B9)
 
-7.[推しポイント]()
+7.[推しポイント](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E6%8E%A8%E3%81%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)
 
 ## ゲーム説明
 

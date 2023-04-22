@@ -15,6 +15,8 @@ public class bullet : MonoBehaviour
     {
         
     }
+
+    //弾が何かに当たった時に呼び出される
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "floor"|| collision.gameObject.tag == "Player")

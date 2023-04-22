@@ -12,7 +12,7 @@
 
 4.[デモ動画](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB)
 
-5.[ストーリー]()
+5.[ストーリー](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
 
 6.[遊び方]()
 

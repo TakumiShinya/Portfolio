@@ -4,25 +4,22 @@ using UnityEngine;
 
 public class Block : MonoBehaviour
 {
+    //ブロックの体力
     public int hitpoint=3;
+    //Gamemanagerクラス
     public GameManager myManager;
-    private AudioSource audio1;
-
-    private float[] probs = new float[4];
+    //ブロックが破壊された時の効果音
+    private AudioSource blockAudio;
+    //アイテムがドロップする確率を格納する配列
+    private float[] probs = { 0.30f, 0.20f, 0.20f, 0.30f };
+    //ブロックの現在の位置を格納する変数
     private Vector3 v;
-
 
     // Start is called before the first frame update
     void Start()
     {
-        probs[0] = 0.30f;
-        probs[1] = 0.20f;
-        probs[2] = 0.20f;
-        probs[3] = 0.30f;
+        //ブロックの現在の位置を取得
         v = this.transform.position;
-
-
-
     }
 
     // Update is called once per frame
@@ -31,55 +28,70 @@ public class Block : MonoBehaviour
         
     }
 
+    //ブロックと何かがぶつかったときに呼び出される
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.tag == "ball"||collision.gameObject.tag=="Ballcopy")
+        //ブロックがボールとぶつかったら
+        if (collision.gameObject.CompareTag("ball") || collision.gameObject.CompareTag("Ballcopy"))
         {
+            //ブロックの体力を１減らす
             hitpoint--;
-            audio1 = GetComponent<AudioSource>();
-            audio1.PlayOneShot(audio1.clip);
+            //AudioSourceコンポーネントを取得
+            blockAudio = GetComponent<AudioSource>();
+            //ブロックがぶつかった時の効果音を再生
+            blockAudio.PlayOneShot(blockAudio.clip);
+            //体力に応じて操作を切り替える
             switch (hitpoint)
             {
                 case 1:
+                    //オブジェクトの色を変える
                     GetComponent<Renderer>().material.color = new Color32(120, 190, 190, 1);
                     break;
                 case 2:
+                    //オブジェクトの色を変える
                     GetComponent<Renderer>().material.color = new Color32(120, 90, 190, 1);
                     break;
                 case 0:
-                    Destroy(this.gameObject);
+                    //ブロック破壊音を再生
                     myManager.SoundPlayBlock();
+                    //スコアを追加
                     myManager.AddScore(100);
+
+                    //アイテムが落ちる確率を計算
                     float p = myManager.EncountCulc(probs);
-                    if (p == 0)
-                    {
-                        GameObject block = GameObject.FindGameObjectWithTag("Cure");
-                        GameObject mobu = Instantiate(block, v, Quaternion.identity);
-                        Rigidbody rigidbody = mobu.GetComponent<Rigidbody>();
-                        rigidbody.AddForce(-transform.forward * 300);
+
+                    //アイテムオブジェクトの宣言
+                    GameObject item;
+                    //抽選された番号によって切り替え
+                    switch(p){
+                        case 0:
+                            //回復アイテムを指定
+                            item = GameObject.FindGameObjectWithTag("Cure");
+                            break;
+                        case 1:
+                            //ボール追加アイテムを指定
+                            item = GameObject.Find("Addball");
+                            break;
+                        case 2:
+                            //スコア加算アイテムを指定
+                            item = GameObject.Find("Addscore");
+                            break;
+                        default:
+                        return;
 
                     }
-                    if (p == 1)
-                    {
 
-                        GameObject block = GameObject.Find("Addball");
-                        GameObject mobu = Instantiate(block, v, Quaternion.identity);
-                        Rigidbody rigidbody = mobu.GetComponent<Rigidbody>();
-                        rigidbody.AddForce(-transform.forward * 300);
-
-                    }
-                    if (p == 2)
-                    {
-                        GameObject block = GameObject.Find("Addscore");
-                        GameObject mobu = Instantiate(block, v, Quaternion.identity);
-                        Rigidbody rigidbody = mobu.GetComponent<Rigidbody>();
-                        rigidbody.AddForce(-transform.forward * 300);
-
-                    }
+                    //シーン上で指定したアイテムを複製
+                    GameObject itemCopy = Instantiate(item, v, Quaternion.identity);
+                    //複製したアイテムのRigidBodyを取得
+                    Rigidbody rigidbody = itemCopy.GetComponent<Rigidbody>();
+                    //アイテムを画面下方向に飛ばす
+                    rigidbody.AddForce(-transform.forward * 300);
+                    
+                    //ブロックを破壊する
+                    Destroy(this.gameObject);
                     break;
             }
         }
     }
-
-
 }

@@ -18,7 +18,7 @@
 
 7.[意識したこと](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8)
 
-8.[推しポイント]()
+8.[推しポイント](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E6%8E%A8%E3%81%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)
 
 9.[開発技術]()
 

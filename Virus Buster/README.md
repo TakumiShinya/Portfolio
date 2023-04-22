@@ -1,4 +1,4 @@
-# Virus Buster!!
+# Virus Buster!!（個人制作：シューティング風ブロック崩しゲーム）
 
 <img src="https://user-images.githubusercontent.com/106252369/233781266-05178a1f-58aa-4017-abe8-396c29c1170d.png" width="500px">
 

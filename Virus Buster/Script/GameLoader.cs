@@ -5,14 +5,22 @@ using UnityEngine.SceneManagement;
 
 public class GameLoader : MonoBehaviour
 {
+    //ステージ説明用UI
     public GameObject explainUI;
+    //ステージ選択用UI
     public GameObject selectUI;
+    //ゲーム終了用UI
     public GameObject quitUI;
+    //遊び方説明用UI
     public GameObject howtoUI;
-    public GameObject cube1;
-    public GameObject cube2;
+    //敵ブロックのUI
+    public GameObject enemyBlock;
+    //ボスブロックのUI
+    public GameObject bossBlock;
 
+    //選択したステージ番号を格納する変数
     private int stage = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +33,8 @@ public class GameLoader : MonoBehaviour
         
     }
 
+    //以下ボタン用関数
+    //
     public void GameStart()
     {
         SceneManager.LoadScene("StageSelect");
@@ -39,29 +49,29 @@ public class GameLoader : MonoBehaviour
     {
         selectUI.SetActive(false);
         explainUI.SetActive(true);
-        cube1.SetActive(true);
+        enemyBlock.SetActive(true);
         stage = 1;
     }
     public void GoExplain2()
     {
         selectUI.SetActive(false);
         explainUI.SetActive(true);
-        cube1.SetActive(true);
+        enemyBlock.SetActive(true);
         stage = 2;
     }
     public void GoExplain3()
     {
         selectUI.SetActive(false);
         explainUI.SetActive(true);
-        cube2.SetActive(true);
+        bossBlock.SetActive(true);
         stage = 3;
     }
     public void BackMenu()
     {
         explainUI.SetActive(false);
         selectUI.SetActive(true);
-        cube1.SetActive(false);
-        cube2.SetActive(false);
+        enemyBlock.SetActive(false);
+        bossBlock.SetActive(false);
         stage = 0;
     }
     public void BackTitle()

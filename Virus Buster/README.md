@@ -42,7 +42,10 @@ Unityのチュートリアルの一つであるブロック崩しをベースに
 
 ## 推しポイント
 
-## デモ動画
+-
 
-https://user-images.githubusercontent.com/106252369/233782964-6f7afb7d-d88b-4006-b311-f40e66049b54.mp4
+## デモ動画
+ゲームのデモ動画です。
+
+[![Virus Buster!!デモ動画](https://user-images.githubusercontent.com/106252369/233781266-05178a1f-58aa-4017-abe8-396c29c1170d.png)](https://youtu.be/eQibHviMgb8)
 

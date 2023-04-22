@@ -14,7 +14,7 @@
 
 5.[ストーリー](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
 
-6.[遊び方]()
+6.[遊び方](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E9%81%8A%E3%81%B3%E6%96%B9)
 
 7.[推しポイント]()
 

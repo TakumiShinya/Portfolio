@@ -18,6 +18,10 @@
 
 7.[意識したこと](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster/README.md#%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8)
 
+8.[推しポイント]()
+
+9.[開発技術]()
+
 ## ゲーム説明
 
 Unityのチュートリアルの一つであるブロック崩しをベースに制作した、シューティング風ブロック崩しゲームです。　

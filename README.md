@@ -17,7 +17,7 @@
  2022年6月~7月に大学の授業内で制作しました。
  本アプリは、Pythonを用いて5人のチームで制作を行いました。
  
- # Monster Parade
+ # Monster Parade[https://github.com/TakumiShinya/Portfolio/tree/main/Monster%20Parade]
  2022年8月18日～8月31日に行われた株式会社オープンセサミテクノロジー様のインターン内で制作した作品です。
  
  Unityのブロック崩しチュートリアルをベースに作品を制作しました。

@@ -80,7 +80,9 @@ https://youtu.be/g8D8LinIFCE
 <img src="https://user-images.githubusercontent.com/106252369/233818532-1c405b70-a80c-4b8d-99fd-3a08b5902872.JPG" width="500px">
 
 一日の仕事が終わるとリザルト画面に移行し、最終的なスコアとランキングを見ることができます。
-<img src="https://user-images.githubusercontent.com/106252369/233818446-a63d4c38-f282-460c-a5ec-4bf41411c19c.png" width="500px">
+
+<img src="https://user-images.githubusercontent.com/106252369/233818631-dde6f95c-780d-468b-9505-e54bd49a6c6a.png" width="500px">
+
 ### 操作方法
 Wキー：上移動
 

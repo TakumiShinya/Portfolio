@@ -1,5 +1,8 @@
 # 画像認識を用いた顔の識別システム（チーム制作）
 
+
+![スクリーンショット 2023-04-23 164401](https://user-images.githubusercontent.com/106252369/233826767-3560baa6-92f5-49d7-9ffb-e5ecd73380db.png)
+
 ## 目次
 1.[説明](https://github.com/TakumiShinya/Portfolio/blob/main/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E9%A1%94%E3%81%AE%E8%AD%98%E5%88%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0(%E3%83%81%E3%83%BC%E3%83%A0%E5%88%B6%E4%BD%9C)/README.md#%E8%AA%AC%E6%98%8E)
 

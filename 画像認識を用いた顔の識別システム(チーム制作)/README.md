@@ -34,6 +34,10 @@ https://colab.research.google.com/drive/1RqdaAzhVCSYiAFklSZGV0s9x_lnZyT7-
 ## 使用データ
 
 CelebA(https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+有名人の大規模顔画像データセット。
+カラー178×218ピクセルの計202,599枚で構成されている。
+40種類のラベルがついており、抽出して使用することが出来る。
+
 
 ## 推しポイント
 

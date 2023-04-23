@@ -34,10 +34,26 @@ https://colab.research.google.com/drive/1RqdaAzhVCSYiAFklSZGV0s9x_lnZyT7-
 ## 使用データ
 
 CelebA(https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
 有名人の大規模顔画像データセット。
+
 カラー178×218ピクセルの計202,599枚で構成されている。
+
 40種類のラベルがついており、抽出して使用することが出来る。
 
+## 開発体制
+
+顔画像の切り抜きシステムと顔判別システムのコーディング
+
+新屋拓海
+
+データセットの加工
+
+伊藤生慈・長嶋康太
+
+発表資料の準備
+
+小田涼平・川上龍仁・
 
 ## 推しポイント
 
@@ -49,11 +65,14 @@ CelebA(https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 ## 開発技術
 ### プログラミング言語
-C#
+- Python
 
 ### 利用したフレームワーク・ライブラリ
-Unity
+- Google Colaboratory
+- numpy
+- PIL
+- cv2
+- facenet-pythorch
 
-### 開発に利用したツール
-- Canva
-- AviUtl
+### その他開発に利用したツール
+- Google Presentation

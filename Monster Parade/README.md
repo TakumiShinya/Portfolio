@@ -6,7 +6,7 @@
 
 1.[ゲーム説明](https://github.com/TakumiShinya/Portfolio/tree/main/Monster%20Parade/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E8%AA%AC%E6%98%8E)
 
-2.[制作期間](https://github.com/TakumiShinya/Portfolio/blob/main/MMonster%20Parade/README.md#%E5%88%B6%E4%BD%9C%E6%9C%9F%E9%96%93)
+2.[制作期間](https://github.com/TakumiShinya/Portfolio/blob/main/Monster%20Parade/README.md#%E5%88%B6%E4%BD%9C%E6%9C%9F%E9%96%93)
 
 3.[ゲーム概要](https://github.com/TakumiShinya/Portfolio/blob/main/Monster%20Parade/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E6%A6%82%E8%A6%81)
 

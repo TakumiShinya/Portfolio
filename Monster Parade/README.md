@@ -1,5 +1,5 @@
 # Monster Parade　　
-（個人制作：ハロウィンの夜に魔物から町を守るブロック崩しゲーム）
+# （個人制作：ハロウィンの夜に魔物から町を守るブロック崩しゲーム）
 
 <img src="https://user-images.githubusercontent.com/106252369/233821297-24b9719b-e690-423e-a220-7952690c7c87.png" width="500px">
 

@@ -4,7 +4,7 @@
 
 ## 目次
 
-1.[ゲーム説明](https://github.com/TakumiShinya/Portfolio/tree/main/Virus%20Buster(%E5%80%8B%E4%BA%BA%E5%88%B6%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0)#%E3%82%B2%E3%83%BC%E3%83%A0%E8%AA%AC%E6%98%8E)
+1.[ゲーム説明](https://github.com/TakumiShinya/Portfolio/tree/main/Virus%20Buster(%E5%80%8B%E4%BA%BA%E5%88%B6%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0)/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E8%AA%AC%E6%98%8E)
 
 2.[制作期間](https://github.com/TakumiShinya/Portfolio/blob/main/Virus%20Buster(%E5%80%8B%E4%BA%BA%E5%88%B6%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0)/README.md#%E5%88%B6%E4%BD%9C%E6%9C%9F%E9%96%93)
 

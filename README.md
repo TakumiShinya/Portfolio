@@ -5,11 +5,11 @@
  
  以下は作品の概要です。
  
- # [Virus Buster!!](https://github.com/TakumiShinya/Portfolio/tree/main/Virus%20Buster)
+ # [Virus Buster!!](https://github.com/TakumiShinya/Portfolio/tree/main/Virus%20Buster(%E5%80%8B%E4%BA%BA%E5%88%B6%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0))
  2021年9月～10月に制作したゲームです。
  大学の授業でProcessingを用いて制作したゲームをUnityでリメイクしました。
  
- # [ソロエルの工場勤務](https://github.com/TakumiShinya/Portfolio/tree/main/%E3%82%BD%E3%83%AD%E3%82%A8%E3%83%AB%E3%81%AE%E5%B7%A5%E5%A0%B4%E5%8B%A4%E5%8B%99)
+ # [ソロエルの工場勤務](hhttps://github.com/TakumiShinya/Portfolio/tree/main/%E3%82%BD%E3%83%AD%E3%82%A8%E3%83%AB%E3%81%AE%E5%B7%A5%E5%A0%B4%E5%8B%A4%E5%8B%99(%E5%80%8B%E4%BA%BA%E5%88%B6%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0))
  2022年5月2日～5月8日に行われたUnity1Week「そろえる」にて制作した作品です。
  Unityを用いて制作を行いました。
  

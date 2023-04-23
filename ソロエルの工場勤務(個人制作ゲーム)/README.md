@@ -78,7 +78,7 @@ https://youtu.be/g8D8LinIFCE
 納品が成功すると、部品の数×1000円分の給料が獲得でき、反対に、納品が失敗すると、1000円分の減給となります。
 
 一日の仕事が終わるとリザルト画面に移行し、最終的なスコアとランキングを見ることができます。
-<img src="https://user-images.githubusercontent.com/106252369/233818446-a63d4c38-f282-460c-a5ec-4bf41411c19c.png" width="300px">
+<img src="https://user-images.githubusercontent.com/106252369/233818446-a63d4c38-f282-460c-a5ec-4bf41411c19c.png" width="500px">
 ### 操作方法
 Wキー：上移動
 

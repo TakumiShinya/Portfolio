@@ -56,7 +56,7 @@ p2hacksでは、ハッカソン初日に発表されるテーマに沿って１�
 ## デモ動画
 ゲームのデモ動画です。
 
-[![Last Attack!!デモ動画](https://user-images.githubusercontent.com/106252369/233900976-205afabe-06ef-40fb-b6c9-090383d55051.png)](https://youtu.be/wPf1jjDaz-M)
+[![Last Attack!!デモ動画](https://user-images.githubusercontent.com/106252369/233922851-cb19dea0-ad5e-4d6a-84b4-1ebe8eca5fb2.png)](https://youtu.be/wPf1jjDaz-M)
 https://youtu.be/wPf1jjDaz-M
 
 ## ゲーム本編

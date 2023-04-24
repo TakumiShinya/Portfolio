@@ -44,12 +44,13 @@
 - カメラに写っている人の姿勢をリアルタイムで取得・反映する
 
 ## スクリーンショット
+![スクリーンショット 2023-04-24 222013]()
 
-<img src="https://user-images.githubusercontent.com/106252369/233931740-7d0f37f9-0265-44b5-bce1-4818dc39ca37.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/234008605-fd044c6f-338e-4222-81ac-33f7e592f897.png" width="500px">
 
-<img src="https://user-images.githubusercontent.com/106252369/233931655-90f202ce-f39c-4e89-8af8-2334425059aa.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/234008677-226ae676-b73e-4039-b144-2254fe9e71cb.png" width="500px">
 
-<img src="https://user-images.githubusercontent.com/106252369/233941163-8f02f00b-754a-42de-bb28-88d5afaeb201.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/234008185-7487159f-1a13-45b1-a574-0e8b28059978.png" width="500px">
 
 ## デモ動画
 ゲームのデモ動画です。

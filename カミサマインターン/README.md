@@ -131,7 +131,7 @@ https://unityroom.com/games/p2hacks2022_gotabo-desu
 
 自然ポイントと発展ポイントが釣り合っていればいいエンディングに、
 
-<img src="https://user-images.githubusercontent.com/106252369/233921192-6b2b9729-105c-4c77-bc51-cce4b5744b66.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/233940888-078d3947-f573-4261-95dd-9bc82c63b396.png" width="500px">
 
 反対に、自然ポイントか発展ポイントのどちらかに偏っていれば悪いエンディングになります。
 

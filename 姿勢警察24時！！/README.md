@@ -4,11 +4,11 @@
 
 ## 目次
 
-1.[システム説明](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E8%AA%AC%E6%98%8E)
+1.[アプリ説明](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E8%AA%AC%E6%98%8E)
 
 2.[制作期間](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E5%88%B6%E4%BD%9C%E6%9C%9F%E9%96%93)
 
-3.[システム概要](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E6%A6%82%E8%A6%81)
+3.[アプリ概要](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E6%A6%82%E8%A6%81)
 
 4.[デモ動画](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB)
 
@@ -22,7 +22,7 @@
 
 9.[開発技術](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93)
 
-## ゲーム説明
+## アプリ説明
 2022年12月～2023年1月に大学の授業である「インタラクティブシステム」にて制作したアプリです。
 
 3人のチームで制作を行い、UnityとAzure Kinectを用いた姿勢改善システムを考案しました。
@@ -42,7 +42,12 @@
 ### コンセプト
 - Azure KinectとUnityを用いたリアルタイム姿勢改善システム
 
-## スクリーンショット
+## 目的
+
+本アプリは、Azure Kinect DKとUnityを利用して制作した、Kinectから取得した姿勢データとそこから
+算出したスコアを画面に表示することによる、姿勢改善を促進することを目的に作られたアプリです。
+
+### スクリーンショット
 
 <img src="https://user-images.githubusercontent.com/106252369/234008605-fd044c6f-338e-4222-81ac-33f7e592f897.png" width="500px">
 
@@ -56,10 +61,7 @@
 
 https://youtu.be/cWelwdEfmGo
 
-## 目的
 
-本アプリは、Azure Kinect DKとUnityを利用して制作した、Kinectから取得した姿勢データとそこから
-算出したスコアを画面に表示することによる、姿勢改善を促進することを目的に作られたアプリです。
 
 ## 使用方法
 

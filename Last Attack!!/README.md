@@ -83,6 +83,8 @@ https://unityroom.com/games/last_attack_unity1week
 
 ボタンを連打しまくって究極の魔法を放ちましょう。
 
+<img src="https://user-images.githubusercontent.com/106252369/233905986-2d7e9160-9190-4075-874b-f796ab269a5b.png" width="500px">
+
 ### 操作方法
 
 マウスクリック：ボタンを押す
@@ -96,8 +98,8 @@ https://unityroom.com/games/last_attack_unity1week
 
 ## 推しポイント
 
-- 「魔法」という世界観を壊さないようなファンタジー感のあるステージ
-- 
+- 「魔法」という世界観を壊さないようなファンタジー感のあるステージやBGM
+- 魔力がたまるごとに豪華になっていく魔法のエフェクト
 
 ## 開発技術
 ### プログラミング言語

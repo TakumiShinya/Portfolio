@@ -63,7 +63,7 @@ p2hacksでは、ハッカソン初日に発表されるテーマに沿って１�
 
 <img src="https://user-images.githubusercontent.com/106252369/233931655-90f202ce-f39c-4e89-8af8-2334425059aa.png" width="500px">
 
-<img src="https://user-images.githubusercontent.com/106252369/233931609-157067db-da1a-4de1-aaff-546502b852e1.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/233941163-8f02f00b-754a-42de-bb28-88d5afaeb201.png" width="500px">
 
 ## デモ動画
 ゲームのデモ動画です。
@@ -134,6 +134,8 @@ https://unityroom.com/games/p2hacks2022_gotabo-desu
 <img src="https://user-images.githubusercontent.com/106252369/233940888-078d3947-f573-4261-95dd-9bc82c63b396.png" width="500px">
 
 反対に、自然ポイントか発展ポイントのどちらかに偏っていれば悪いエンディングになります。
+
+<img src="https://user-images.githubusercontent.com/106252369/233941029-c369b38e-39ff-4321-b17e-e26c14a5c34d.png" width="500px">
 
 ### 操作方法
 

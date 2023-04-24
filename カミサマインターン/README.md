@@ -59,7 +59,6 @@ p2hacksでは、ハッカソン初日に発表されるテーマに沿って１�
 
 ## スクリーンショット
 
-
 <img src="https://user-images.githubusercontent.com/106252369/233931740-7d0f37f9-0265-44b5-bce1-4818dc39ca37.png" width="500px">
 
 <img src="https://user-images.githubusercontent.com/106252369/233931655-90f202ce-f39c-4e89-8af8-2334425059aa.png" width="500px">
@@ -69,7 +68,8 @@ p2hacksでは、ハッカソン初日に発表されるテーマに沿って１�
 ## デモ動画
 ゲームのデモ動画です。
 
-[![Last Attack!!デモ動画](https://user-images.githubusercontent.com/106252369/233922851-cb19dea0-ad5e-4d6a-84b4-1ebe8eca5fb2.png)](https://youtu.be/wPf1jjDaz-M)
+[![Last Attack!!デモ動画](<img src="https://user-images.githubusercontent.com/106252369/233931609-157067db-da1a-4de1-aaff-546502b852e1.png" width="500px">)](https://youtu.be/wPf1jjDaz-M)
+
 https://youtu.be/wPf1jjDaz-M
 
 ## ゲーム本編

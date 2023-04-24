@@ -100,7 +100,7 @@ https://unityroom.com/games/p2hacks2022_gotabo-desu
 
 木はフィールド上に最初から存在しますが、自然発生はしません。
 
-<img src="https://user-images.githubusercontent.com/106252369/233987639-9aaa3a8c-ea82-48b8-9b33-d4c5b616e977.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/233987639-9aaa3a8c-ea82-48b8-9b33-d4c5b616e977.png" width="300px">
 
 ### 人間の増殖と木の消費
 ニンゲンはドウブツを食べることで体力を回復し、一定以上の体力がある状態で木にぶつかると、木を家に変えます。
@@ -110,6 +110,8 @@ https://unityroom.com/games/p2hacks2022_gotabo-desu
 家もニンゲンと同様に、時間経過で耐久値が減っていき、0になると消滅します。
 
 この耐久値は、周りにある木を消費することで耐久値を回復できます。
+
+<img src="https://user-images.githubusercontent.com/106252369/233987923-37f44221-0c37-4d96-b352-d5b4b9e245bb.png" width="300px">
 
 ### ゲームの流れ
 ゲームはシミュレーションモードとカード選択モードの2つのモードがあります。

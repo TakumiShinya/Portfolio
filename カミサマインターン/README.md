@@ -55,6 +55,15 @@ p2hacksでは、ハッカソン初日に発表されるテーマに沿って１�
 - 環境問題の未来に着目したシリアスゲーム。
 - 自然環境を維持しながら人間の発展させる難しさを体験できるシミュレーションゲーム
 
+## スクリーンショット
+
+
+<img src="https://user-images.githubusercontent.com/106252369/233931740-7d0f37f9-0265-44b5-bce1-4818dc39ca37.png" width="500px">
+
+<img src="https://user-images.githubusercontent.com/106252369/233931655-90f202ce-f39c-4e89-8af8-2334425059aa.png" width="500px">
+
+<img src="https://user-images.githubusercontent.com/106252369/233931609-157067db-da1a-4de1-aaff-546502b852e1.png" width="500px">
+
 ## デモ動画
 ゲームのデモ動画です。
 

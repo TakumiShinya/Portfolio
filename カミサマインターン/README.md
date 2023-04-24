@@ -18,11 +18,13 @@
 
 7.[遊び方](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E9%81%8A%E3%81%B3%E6%96%B9)
 
-8.[意識したこと](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8)
+8.[開発体制]()
 
-9.[推しポイント](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E6%8E%A8%E3%81%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)
+9.[意識したこと](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8)
 
-10.[開発技術](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93)
+10.[推しポイント](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E6%8E%A8%E3%81%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)
+
+11.[開発技術](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93)
 
 ## ゲーム説明
 2022年12月10日から12月8日に行われた学内ハッカソン「p2hacks」にて制作したシリアス・シミュレーションゲームです。

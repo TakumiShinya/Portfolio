@@ -1,6 +1,6 @@
 # カミサマインターン<br>（チーム制作：環境問題の未来に着目したシリアスゲーム）
 
-<img src="https://user-images.githubusercontent.com/106252369/233899657-d562d1e6-90ee-4dde-af16-730ed404337f.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/233921319-386ffa8b-6260-4a43-8702-c380223dfe8b.png" width="500px">
 
 ## 目次
 
@@ -78,6 +78,7 @@ https://unityroom.com/games/p2hacks2022_gotabo-desu
 
 未来操作能力を使って、ニンゲンを発展させつつ、自然を維持させることが目的です。
 
+![スクリーンショット 2022-12-18 102308](https://user-images.githubusercontent.com/106252369/233921192-6b2b9729-105c-4c77-bc51-cce4b5744b66.png)
 
 ### 操作方法
 

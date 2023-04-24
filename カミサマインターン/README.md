@@ -100,6 +100,8 @@ https://unityroom.com/games/p2hacks2022_gotabo-desu
 
 木はフィールド上に最初から存在しますが、自然発生はしません。
 
+<img src="https://user-images.githubusercontent.com/106252369/233987639-9aaa3a8c-ea82-48b8-9b33-d4c5b616e977.png" width="500px">
+
 ### 人間の増殖と木の消費
 ニンゲンはドウブツを食べることで体力を回復し、一定以上の体力がある状態で木にぶつかると、木を家に変えます。
 
@@ -120,7 +122,7 @@ https://unityroom.com/games/p2hacks2022_gotabo-desu
 
 という２つのモードを繰り返し行い、より良い島を目指します。
 
-<img src="https://user-images.githubusercontent.com/106252369/233921192-6b2b9729-105c-4c77-bc51-cce4b5744b66.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/233987394-fe43dd14-012e-4e1e-8fab-ba262db421ac.png" width="500px">
 
 ### エンディング分岐
 このゲームでは、ユニットごとに自然ポイントか発展ポイントが設定されています。

@@ -46,7 +46,7 @@ Unityを用いて１週間で制作を行いました。
 
 カミサマの弟子としてより良い島の未来を目指すゲームです。
 
-## 姿勢警察24時!!(https://github.com/TakumiShinya/Portfolio/tree/main/%E5%A7%BF%E5%8B%A2%E8%AD%A6%E5%AF%9F24%E6%99%82%EF%BC%81%EF%BC%81)
+## [姿勢警察24時!!](https://github.com/TakumiShinya/Portfolio/tree/main/%E5%A7%BF%E5%8B%A2%E8%AD%A6%E5%AF%9F24%E6%99%82%EF%BC%81%EF%BC%81)
 
 2022年12月～1月に大学の授業の1つである「インタラクティブシステム」で制作したアプリです。
 

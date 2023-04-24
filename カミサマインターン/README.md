@@ -18,7 +18,7 @@
 
 7.[遊び方](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E9%81%8A%E3%81%B3%E6%96%B9)
 
-8.[開発体制]()
+8.[開発体制](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E9%96%8B%E7%99%BA%E4%BD%93%E5%88%B6)
 
 9.[意識したこと](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8)
 

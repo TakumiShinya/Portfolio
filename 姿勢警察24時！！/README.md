@@ -1,6 +1,6 @@
 # 姿勢警察24時!!<br>（チーム制作：Azure KinectとUnityを用いた姿勢改善システム）
 
-<img src="https://user-images.githubusercontent.com/106252369/233941429-19aa24e1-fe78-4204-bd22-3a3973bc8bcf.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/234006576-74979031-dfbb-4498-88bd-13bbfbc994d1.png" width="500px">
 
 ## 目次
 

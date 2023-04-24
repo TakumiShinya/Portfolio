@@ -1,6 +1,6 @@
 # カミサマインターン<br>（チーム制作：環境問題の未来に着目したシリアスゲーム）
 
-<img src="https://user-images.githubusercontent.com/106252369/233921319-386ffa8b-6260-4a43-8702-c380223dfe8b.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/233941429-19aa24e1-fe78-4204-bd22-3a3973bc8bcf.png" width="500px">
 
 ## 目次
 

@@ -1,6 +1,6 @@
 # プロジェクト学習<br>(チーム制作：Alice in the ideal world)
 
-<src="https://user-images.githubusercontent.com/106252369/234152379-e0284a59-2d24-4f72-9f76-85ce2a5684ff.png" width="500px">
+<img src="https://user-images.githubusercontent.com/106252369/234152379-e0284a59-2d24-4f72-9f76-85ce2a5684ff.png" width="500px">
 ## 目次
 
 1.[説明](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E8%AA%AC%E6%98%8E)

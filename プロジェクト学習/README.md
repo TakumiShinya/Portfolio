@@ -4,19 +4,19 @@
 
 ## 目次
 
-1.[説明](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E8%AA%AC%E6%98%8E)
+1.[説明](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%AD%A6%E7%BF%92/README.md#%E8%AA%AC%E6%98%8E)
 
-2.[制作期間](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E5%88%B6%E4%BD%9C%E6%9C%9F%E9%96%93)
+2.[制作期間](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%AD%A6%E7%BF%92/README.md#%E5%88%B6%E4%BD%9C%E6%9C%9F%E9%96%93)
 
-3.[概要](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E3%82%B2%E3%83%BC%E3%83%A0%E6%A6%82%E8%A6%81)
+3.[概要](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%AD%A6%E7%BF%92/README.md#%E6%A6%82%E8%A6%81)
 
-4.[開発体制](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E9%96%8B%E7%99%BA%E4%BD%93%E5%88%B6)
+4.[開発体制](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%AD%A6%E7%BF%92/README.md#%E9%96%8B%E7%99%BA%E4%BD%93%E5%88%B6)
 
-5.[自身の役割](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E6%8E%A8%E3%81%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)
+5.[自身の役割](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%AD%A6%E7%BF%92/README.md#%E8%87%AA%E8%BA%AB%E3%81%AE%E5%BD%B9%E5%89%B2)
 
-6.[意識したこと](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8)
+6.[意識したこと](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%AD%A6%E7%BF%92/README.md#%E6%84%8F%E8%AD%98%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8)
 
-7.[開発技術](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/README.md#%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93)
+7.[開発技術](https://github.com/TakumiShinya/Portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%AD%A6%E7%BF%92/README.md#%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%83%A8%E5%88%86)
 
 ## 説明
 プロジェクト学習は2022年5月～2022年12月にかけて行われる大学の授業の１つです。

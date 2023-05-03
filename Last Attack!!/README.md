@@ -24,6 +24,8 @@
 
 10.[開発技術](https://github.com/TakumiShinya/Portfolio/blob/main/Last%20Attack!!/README.md#%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93)
 
+11.[学校祭での展示](https://github.com/TakumiShinya/Portfolio/blob/main/Last%20Attack!!/README.md#%E5%AD%A6%E6%A0%A1%E7%A5%AD%E3%81%A7%E3%81%AE%E5%B1%95%E7%A4%BA)
+
 ## ゲーム説明
 2022年9月5日から9月11日に行われたUnity1Week「ためる」にて制作したゲームです。
 
